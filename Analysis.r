@@ -26,3 +26,7 @@ chisq.test(table_hyp)
 
 # T-test for glucose levels
 t.test(avg_glucose_level ~ stroke, data = stroke_data)
+
+
+
+#Hello
